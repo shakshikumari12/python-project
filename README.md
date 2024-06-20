@@ -1,4 +1,4 @@
-#Amazon Review Sentiment Analysis
+
 Overview
 The Amazon Review Sentiment Analysis project is designed to analyze Amazon customer reviews to gauge sentiment and provide valuable insights for optimizing business strategies. Leveraging advanced natural language processing (NLP) techniques and machine learning models, this project aims to classify and understand the underlying sentiments expressed in reviews. By interpreting these sentiments, businesses can better understand customer feedback and improve their products and services accordingly.
 
